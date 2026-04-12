@@ -17,5 +17,5 @@
 Варіант 1 Запрограмувати миготіння світлодіода PD12 з частотою 1 Гц (50% тривалість).
 
 <p align="center">
-  <video src="" width="100%" controls></video>
+  <video src="https://github.com/VivaFalas/RS_31_Volodumyr_Krasko_LR1/blob/main/lab1_v.mp4" width="100%" controls></video>
 </p>
